@@ -1,2 +1,2 @@
 # hexeh
-Time tracking and monitoring
+This is a social network payment solution.
